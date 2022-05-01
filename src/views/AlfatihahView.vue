@@ -9,6 +9,7 @@
       <button class="btn btn-primary btn-sm" @click.prevent="playSound(this.audio_files.audio_url)">
      <h3><span class="fa fa-play-circle-o"></span> Play Al-Fatihah</h3>
       </button>
+      
     </label>
     <div class="row">
       <div class="column left"> 
