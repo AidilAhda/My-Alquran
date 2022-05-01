@@ -3,6 +3,5 @@
 </template>
 
 
-<style>
 
-</style>
+
