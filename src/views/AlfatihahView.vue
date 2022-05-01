@@ -63,6 +63,7 @@ name:'AlfatihahView',
 
     let resultAudio = await axios.get('https://api.quran.com/api/v4/chapter_recitations/7/1')
     this.audio_files = resultAudio.data.audio_file
+    
 },
 methods:{
    playSound (sound) {
